@@ -12,7 +12,7 @@ function BoasVindas() {
             Alert.alert("Preencha seu nome e sobrenome!");
             setMostrarMensagem(false);
         } else {
-            setMostrarMensagem(true);
+                setMostrarMensagem(true);
         }
     }
 
